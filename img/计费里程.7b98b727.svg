@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 41</title>
+    <g id="运单3.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="创建运单3.0" transform="translate(-1270.000000, -241.000000)">
+            <g id="编组-18" transform="translate(80.000000, 54.000000)">
+                <g id="编组-49" transform="translate(22.000000, 71.000000)">
+                    <g id="编组-41" transform="translate(1168.500000, 116.000000)">
+                        <rect id="矩形" x="0" y="0" width="20" height="20"></rect>
+                        <g id="编组-39" transform="translate(10.000000, 9.704087) rotate(90.000000) translate(-10.000000, -9.704087) translate(2.500000, 2.000000)" stroke="#A2ADC7" stroke-width="1.3">
+                            <path d="M3.46153846,7.61971154 L11.7343977,7.61971154 C13.53794,7.61971154 15,8.91119784 15,10.5043269 C15,12.097456 13.53794,13.3889423 11.7343977,13.3889423 L3.46153846,13.3889423" id="路径"></path>
+                            <path d="M0,1.85048077 L8.27285922,1.85048077 C10.0764016,1.85048077 11.5384615,3.14196707 11.5384615,4.73509615 C11.5384615,6.32822524 10.0764016,7.61971154 8.27285922,7.61971154 L0,7.61971154" id="路径备份" transform="translate(5.769231, 4.735096) scale(-1, 1) translate(-5.769231, -4.735096) "></path>
+                            <circle id="椭圆形" cx="13.125" cy="1.875" r="1.225"></circle>
+                            <circle id="椭圆形备份-3" cx="1.875" cy="13.5331731" r="1.225"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
