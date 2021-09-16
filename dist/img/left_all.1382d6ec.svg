@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>全部向左</title>
+    <g id="组件规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="挑单页" transform="translate(-473.000000, -613.000000)">
+            <g id="全部向左" transform="translate(481.000000, 621.000000) scale(-1, 1) translate(-481.000000, -621.000000) translate(473.000000, 613.000000)">
+                <rect id="矩形" opacity="0.5" x="0" y="0" width="16" height="16" rx="2"></rect>
+                <polyline id="路径备份" stroke="#525866" stroke-linecap="round" stroke-linejoin="round" transform="translate(6.226497, 8.420528) rotate(-90.000000) translate(-6.226497, -8.420528) " points="10.4691376 6.2992074 6.22649692 10.5418481 1.98385623 6.2992074"></polyline>
+                <polyline id="路径备份-2" stroke="#525866" stroke-linecap="round" stroke-linejoin="round" transform="translate(10.226497, 8.420528) rotate(-90.000000) translate(-10.226497, -8.420528) " points="14.4691376 6.2992074 10.2264969 10.5418481 5.98385623 6.2992074"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

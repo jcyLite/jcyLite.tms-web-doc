@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>回单管理G</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#CECECE" offset="0%"></stop>
+            <stop stop-color="#E0E0E0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-590.000000, -124.000000)">
+            <g id="编组" transform="translate(590.000000, 124.000000)">
+                <path d="M4.45531235,31.4102385 C10.3957288,37.3499206 25.6042712,37.6154699 31.5446877,31.6757878 C37.4851041,25.7361057 37.4851041,10.2638943 31.5446877,4.32421219 C25.6042712,-1.61546988 10.3957288,-1.3499206 4.45531235,4.58976147 C-1.48510412,10.5294435 -1.48510412,25.4705565 4.45531235,31.4102385 Z" id="椭圆形备份-2" fill="url(#linearGradient-1)"></path>
+                <g id="成交_transaction" transform="translate(9.750000, 9.750000)">
+                    <path d="M15.5294118,0 L1.41176471,0 C0.632070588,0 -3.46389584e-14,0.632070588 -3.46389584e-14,1.41176471 L-3.46389584e-14,15.5294118 C-3.46389584e-14,16.3091294 0.632070588,16.9411765 1.41176471,16.9411765 L15.5294118,16.9411765 C16.3091294,16.9411765 16.9411765,16.3091294 16.9411765,15.5294118 L16.9411765,1.41176471 C16.9411765,0.632070588 16.3091294,0 15.5294118,0 Z" id="路径" fill="#FFFFFF"></path>
+                    <line x1="3.76470588" y1="4.23529412" x2="13.1764706" y2="4.23529412" id="路径" stroke="#D1D1D1" stroke-width="1.66500036" stroke-linecap="round" stroke-linejoin="bevel"></line>
+                    <line x1="3.76470588" y1="8" x2="13.125" y2="7.875" id="路径" stroke="#D1D1D1" stroke-width="1.66500036" stroke-linecap="round" stroke-linejoin="bevel"></line>
+                    <line x1="8.625" y1="11.625" x2="13.125" y2="11.625" id="路径备份" stroke="#D1D1D1" stroke-width="1.66500036" stroke-linecap="round" stroke-linejoin="bevel"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
