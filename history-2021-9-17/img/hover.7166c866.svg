@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="68px" viewBox="0 0 76 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 77</title>
+    <defs>
+        <path d="M24.4553123,31.4102385 C30.3957288,37.3499206 45.6042712,37.6154699 51.5446877,31.6757878 C57.4851041,25.7361057 57.4851041,10.2638943 51.5446877,4.32421219 C45.6042712,-1.61546988 30.3957288,-1.3499206 24.4553123,4.58976147 C18.5148959,10.5294435 18.5148959,25.4705565 24.4553123,31.4102385 Z" id="path-1"></path>
+        <filter x="-19.4%" y="-13.9%" width="138.9%" height="138.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.329541558   0 0 0 0 0.350821842   0 0 0 0 0.369832799  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-77" transform="translate(0.000000, 2.000000)">
+            <g id="椭圆形备份">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <rect id="矩形" x="0" y="3.26849658e-13" width="76" height="65.53"></rect>
+        </g>
+    </g>
+</svg>
